@@ -1,2 +1,2 @@
 streamlit==0.86.0
-summarizer==0.0.7
+summarizer==1.2.3
