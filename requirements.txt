@@ -1,2 +1,2 @@
 streamlit==0.86.0
-summarizer==1.2.3
+pip show bert-extractive-summarizer==0.10.1
